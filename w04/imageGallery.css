@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.line3 img {
+  width: 30%;
+  margin: 1%;
+}
+
+
+.line4 img {
+  width: 20%;
+  margin: 2%;
+}
